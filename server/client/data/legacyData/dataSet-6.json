@@ -1,0 +1,28 @@
+{
+	"results": [
+	{
+		"influence": 60.0,
+		"name": "Alfa"
+	},
+	{
+		"influence": 70.0,
+		"name": "Beta"
+	},
+	{
+		"influence": 40.0,
+		"name": "Gamma"
+	},
+	{
+		"influence": 90.0,
+		"name": "Delta"
+	},
+	{
+		"influence": 10.0,
+		"name": "Epsilon"
+	},
+	{
+		"influence": 30.0,
+		"name": "Zeta"
+	}],
+	"total": 6
+}

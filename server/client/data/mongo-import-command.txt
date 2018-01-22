@@ -1,0 +1,1 @@
+mongoimport --db vranalytics --collection dataset125 --type json --file dataset125.json --jsonArray
